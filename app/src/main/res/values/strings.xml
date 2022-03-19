@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BNB Fragment Demo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="home_fragment">Home</string>
+    <string name="music_fragment">Music</string>
+    <string name="place_fragment">Place</string>
+    <string name="newpaper_fragment">News Paper</string>
+    <string name="favorite_fragment">Favorite</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text_label_home">Home</string>
+    <string name="text_label_place">Place</string>
+    <string name="text_label_music">Music</string>
+    <string name="text_label_favorite">Favorite</string>
+    <string name="text_label_newspaper">Newspaper</string>
+</resources>
